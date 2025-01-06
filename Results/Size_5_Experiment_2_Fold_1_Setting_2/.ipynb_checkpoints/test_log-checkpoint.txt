@@ -1,0 +1,1 @@
+Testing command is /home/featurize/work/uc/bin/python /home/featurize/work/uc/lib/python3.9/site-packages/mmseg/.mim/tools/test.py /home/featurize/work/hls-foundation-os/configs/size_5/experiment_2/size_5_experiment_2_fold_1_setting_2.py /home/featurize/Results/Size_5_Experiment_2_Fold_1_Setting_2/best_mIoU_epoch_19.pth --launcher none --eval mIoU. 
